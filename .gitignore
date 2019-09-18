@@ -1,0 +1,3 @@
+/vendor/
+# not sure about path for vendor folder, for any case point current directory:
+./vendor/

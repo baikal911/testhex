@@ -1,0 +1,14 @@
+{
+    "name": "baikal911/runner-testt",
+    "description": "test package for Runner.php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mikhail Los",
+            "email": "baikalland@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^6.0"
+    }
+}
